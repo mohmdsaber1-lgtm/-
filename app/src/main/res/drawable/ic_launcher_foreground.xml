@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Frame -->
+    <path
+        android:fillColor="#E2A03F"
+        android:pathData="M54,24 L78,34 V52 C78,68 67,81 54,86 C41,81 30,68 30,52 V34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L74,37 V52 C74,65 65,77 54,81 C43,77 34,65 34,52 V37 Z" />
+    <!-- Car / Wrench Symbol inside Shield -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,38 C49,38 45,42 45,47 C45,50 46.5,52.5 49,54 L49,68 C49,69.5 50.5,71 52,71 L56,71 C57.5,71 59,69.5 59,68 L59,54 C61.5,52.5 63,50 63,47 C63,42 59,38 54,38 Z M54,43 C56,43 57.5,44.5 57.5,46.5 C57.5,48.5 56,50 54,50 C52,50 50.5,48.5 50.5,46.5 C50.5,44.5 52,43 54,43 Z" />
+</vector>

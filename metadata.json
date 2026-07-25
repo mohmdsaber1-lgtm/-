@@ -1,0 +1,8 @@
+{
+  "name": "Remix: صيانة باترول 2015",
+  "description": "برنامج تسجيل متابعة وصيانة نيسان باترول 2015 وفق جدول الوكالة وتنبيهات الاستمارة والفحص الدوري",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
